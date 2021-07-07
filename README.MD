@@ -1,11 +1,11 @@
  <p align="center">
-  <img alt="Cadastro Aluno/Nota e Média Escolar Geral" src="./mediaescolar.png" width="100%">
+  <img alt="Cadastro Aluno/Nota e Média Escolar Geral" src="./mediaescolar.png" width="80%">
 </p>
  
  ## 🚀 Tecnologias
 
 - C# 
-- .NEt (framework)
+- .NET (framework)
 
 ## 💻 Projeto
 
