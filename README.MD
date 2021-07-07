@@ -11,7 +11,7 @@
 
 Algoritimo de Média Escolar, foi desenvolvido em linguagem em C# + .NET , foi apresentado e projetado pelo professor Gabriel Faraday no curso de "Primeiros passos .NET + C#" na plataforma da DIO (Digital Innovation One).
 
-Neste projeto, o algoritimo coleta os nomes dos alunos e suas notas, e logo após, apresenta a opção de calcular a média geral de todos alunos da suposta escola, e também sua classificação geral (A, B, C, D, E) "estilo americano".
+Neste projeto, o algoritimo coleta os nomes dos alunos e suas notas, e logo após, apresenta a opção de calcular a média geral de todos alunos da suposta escola, e também sua classificação geral (A, B, C, D, E).
 
  
 ## 📝 Aprendizado - Anderson Nascimento
